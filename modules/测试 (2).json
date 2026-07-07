@@ -1,0 +1,104 @@
+{
+  "name": "测试 (2)",
+  "segments": [
+    {
+      "duration": 15.0,
+      "global_buffs": [],
+      "name": "2",
+      "repeat": 2,
+      "skills": [
+        {
+          "buffs_on": [],
+          "count": "80",
+          "skill_id": 1012
+        },
+        {
+          "buffs_on": [],
+          "count": "127",
+          "skill_id": 1011
+        },
+        {
+          "buffs_on": [],
+          "count": "79",
+          "skill_id": 1013
+        }
+      ]
+    },
+    {
+      "name": "灌注期",
+      "duration": 15.0,
+      "skills": [
+        {
+          "skill_id": 1012,
+          "buffs_on": [],
+          "count": "80"
+        },
+        {
+          "skill_id": 1011,
+          "buffs_on": [],
+          "count": "127"
+        },
+        {
+          "skill_id": 1013,
+          "buffs_on": [],
+          "count": "10"
+        }
+      ],
+      "global_buffs": [],
+      "repeat": 2
+    },
+    {
+      "name": "灌注期",
+      "duration": 15.0,
+      "skills": [
+        {
+          "skill_id": 1012,
+          "buffs_on": [],
+          "count": "80"
+        },
+        {
+          "skill_id": 1011,
+          "buffs_on": [],
+          "count": "127"
+        },
+        {
+          "skill_id": 1013,
+          "buffs_on": [],
+          "count": "10"
+        }
+      ],
+      "global_buffs": [],
+      "repeat": 2
+    },
+    {
+      "name": "灌注期",
+      "duration": 15.0,
+      "skills": [
+        {
+          "skill_id": 1012,
+          "buffs_on": [],
+          "count": "80"
+        },
+        {
+          "skill_id": 1011,
+          "buffs_on": [],
+          "count": "127"
+        },
+        {
+          "skill_id": 1013,
+          "buffs_on": [],
+          "count": "10"
+        }
+      ],
+      "global_buffs": [],
+      "repeat": 2
+    }
+  ],
+  "execution_plan": {
+    "测试": 1,
+    "灌注期": 2,
+    "真空期": 1,
+    "2": 2
+  },
+  "note": ""
+}

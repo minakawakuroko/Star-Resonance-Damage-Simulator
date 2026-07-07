@@ -1,0 +1,33 @@
+{
+  "name": "测试2",
+  "segments": [
+    {
+      "name": "灌注期",
+      "duration": 15.0,
+      "skills": [
+        {
+          "skill_id": 1012,
+          "buffs_on": [],
+          "count": "80"
+        },
+        {
+          "skill_id": 1011,
+          "buffs_on": [],
+          "count": "127"
+        },
+        {
+          "skill_id": 1013,
+          "buffs_on": [],
+          "count": "10"
+        }
+      ],
+      "global_buffs": []
+    }
+  ],
+  "execution_plan": {
+    "测试": 1,
+    "灌注期": 2,
+    "真空期": 1
+  },
+  "note": ""
+}

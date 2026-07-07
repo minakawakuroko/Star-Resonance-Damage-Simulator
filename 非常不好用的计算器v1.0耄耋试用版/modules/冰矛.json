@@ -1,0 +1,705 @@
+{
+  "name": "冰矛",
+  "segments": [
+    {
+      "duration": 8.0,
+      "global_buffs": [
+        2016,
+        2015,
+        2012,
+        2013,
+        2014,
+        2011,
+        2111,
+        2127,
+        2128,
+        2119,
+        2017,
+        2102,
+        2103
+      ],
+      "name": "灌注期-大招前8秒",
+      "skills": [
+        {
+          "buffs_on": [],
+          "count": "0",
+          "skill_id": 1020
+        },
+        {
+          "buffs_on": [],
+          "count": "0",
+          "skill_id": 1021
+        },
+        {
+          "buffs_on": [
+            2021,
+            2019,
+            2018
+          ],
+          "count": "44",
+          "skill_id": 1012
+        },
+        {
+          "buffs_on": [
+            2021,
+            2022
+          ],
+          "count": "16",
+          "skill_id": 1013
+        },
+        {
+          "buffs_on": [],
+          "count": "g",
+          "skill_id": 1014
+        },
+        {
+          "buffs_on": [
+            2028
+          ],
+          "count": "h",
+          "skill_id": 1015
+        },
+        {
+          "buffs_on": [],
+          "count": "q+w",
+          "skill_id": 1017
+        },
+        {
+          "buffs_on": [],
+          "count": "b",
+          "skill_id": 1018
+        },
+        {
+          "buffs_on": [
+            2020
+          ],
+          "count": "1",
+          "skill_id": 1016
+        },
+        {
+          "buffs_on": [
+            2028
+          ],
+          "count": "3",
+          "skill_id": 1108
+        },
+        {
+          "buffs_on": [
+            2028
+          ],
+          "count": "0",
+          "skill_id": 1011
+        }
+      ]
+    },
+    {
+      "duration": 7.0,
+      "global_buffs": [
+        2017,
+        2016,
+        2015,
+        2014,
+        2011,
+        2111,
+        2127,
+        2128,
+        2119,
+        2103,
+        2102
+      ],
+      "name": "灌注期-大招后7秒",
+      "repeat": 1,
+      "skills": [
+        {
+          "buffs_on": [],
+          "count": "0",
+          "skill_id": 1020
+        },
+        {
+          "buffs_on": [],
+          "count": "0",
+          "skill_id": 1021
+        },
+        {
+          "buffs_on": [
+            2021,
+            2019,
+            2018
+          ],
+          "count": "38",
+          "skill_id": 1012
+        },
+        {
+          "buffs_on": [
+            2021,
+            2022
+          ],
+          "count": "14",
+          "skill_id": 1013
+        },
+        {
+          "buffs_on": [],
+          "count": "g",
+          "skill_id": 1014
+        },
+        {
+          "buffs_on": [
+            2028
+          ],
+          "count": "h",
+          "skill_id": 1015
+        },
+        {
+          "buffs_on": [],
+          "count": "q+w",
+          "skill_id": 1017
+        },
+        {
+          "buffs_on": [],
+          "count": "b",
+          "skill_id": 1018
+        },
+        {
+          "buffs_on": [
+            2020
+          ],
+          "count": "1",
+          "skill_id": 1016
+        },
+        {
+          "buffs_on": [
+            2028
+          ],
+          "count": "2",
+          "skill_id": 1108
+        },
+        {
+          "buffs_on": [
+            2028
+          ],
+          "count": "0",
+          "skill_id": 1011
+        }
+      ]
+    },
+    {
+      "duration": 8.0,
+      "global_buffs": [
+        2016,
+        2015,
+        2013,
+        2014,
+        2011,
+        2111,
+        2127,
+        2128,
+        2119,
+        2017,
+        2102
+      ],
+      "name": "灌注期-大招前8秒，无博无大",
+      "repeat": 1,
+      "skills": [
+        {
+          "buffs_on": [],
+          "count": "0",
+          "skill_id": 1020
+        },
+        {
+          "buffs_on": [],
+          "count": "0",
+          "skill_id": 1021
+        },
+        {
+          "buffs_on": [
+            2021,
+            2019,
+            2018
+          ],
+          "count": "44",
+          "skill_id": 1012
+        },
+        {
+          "buffs_on": [
+            2021,
+            2022
+          ],
+          "count": "16",
+          "skill_id": 1013
+        },
+        {
+          "buffs_on": [],
+          "count": "g",
+          "skill_id": 1014
+        },
+        {
+          "buffs_on": [
+            2028
+          ],
+          "count": "h",
+          "skill_id": 1015
+        },
+        {
+          "buffs_on": [],
+          "count": "q+w",
+          "skill_id": 1017
+        },
+        {
+          "buffs_on": [],
+          "count": "b",
+          "skill_id": 1018
+        },
+        {
+          "buffs_on": [
+            2020
+          ],
+          "count": "1",
+          "skill_id": 1016
+        },
+        {
+          "buffs_on": [
+            2028
+          ],
+          "count": "3",
+          "skill_id": 1108
+        },
+        {
+          "buffs_on": [
+            2028
+          ],
+          "count": "0",
+          "skill_id": 1011
+        }
+      ]
+    },
+    {
+      "duration": 7.0,
+      "global_buffs": [
+        2017,
+        2016,
+        2015,
+        2014,
+        2011,
+        2111,
+        2127,
+        2128,
+        2119,
+        2102
+      ],
+      "name": "灌注期-大招后7秒，无博无大",
+      "repeat": 1,
+      "skills": [
+        {
+          "buffs_on": [],
+          "count": "0",
+          "skill_id": 1020
+        },
+        {
+          "buffs_on": [],
+          "count": "0",
+          "skill_id": 1021
+        },
+        {
+          "buffs_on": [
+            2021,
+            2019,
+            2018
+          ],
+          "count": "38",
+          "skill_id": 1012
+        },
+        {
+          "buffs_on": [
+            2021,
+            2028
+          ],
+          "count": "14",
+          "skill_id": 1013
+        },
+        {
+          "buffs_on": [],
+          "count": "g",
+          "skill_id": 1014
+        },
+        {
+          "buffs_on": [
+            2028
+          ],
+          "count": "h",
+          "skill_id": 1015
+        },
+        {
+          "buffs_on": [],
+          "count": "q+w",
+          "skill_id": 1017
+        },
+        {
+          "buffs_on": [],
+          "count": "b",
+          "skill_id": 1018
+        },
+        {
+          "buffs_on": [
+            2020
+          ],
+          "count": "1",
+          "skill_id": 1016
+        },
+        {
+          "buffs_on": [
+            2028
+          ],
+          "count": "2",
+          "skill_id": 1108
+        },
+        {
+          "buffs_on": [
+            2028
+          ],
+          "count": "0",
+          "skill_id": 1011
+        }
+      ]
+    },
+    {
+      "duration": 8.0,
+      "global_buffs": [
+        2016,
+        2015,
+        2013,
+        2014,
+        2011,
+        2111,
+        2127,
+        2128,
+        2119,
+        2017,
+        2102,
+        2101
+      ],
+      "name": "灌注期-无大",
+      "repeat": 1,
+      "skills": [
+        {
+          "buffs_on": [],
+          "count": "0",
+          "skill_id": 1020
+        },
+        {
+          "buffs_on": [],
+          "count": "0",
+          "skill_id": 1021
+        },
+        {
+          "buffs_on": [
+            2021,
+            2019,
+            2018
+          ],
+          "count": "44",
+          "skill_id": 1012
+        },
+        {
+          "buffs_on": [
+            2021,
+            2022
+          ],
+          "count": "16",
+          "skill_id": 1013
+        },
+        {
+          "buffs_on": [],
+          "count": "g",
+          "skill_id": 1014
+        },
+        {
+          "buffs_on": [
+            2028
+          ],
+          "count": "h",
+          "skill_id": 1015
+        },
+        {
+          "buffs_on": [],
+          "count": "q+w",
+          "skill_id": 1017
+        },
+        {
+          "buffs_on": [],
+          "count": "b",
+          "skill_id": 1018
+        },
+        {
+          "buffs_on": [
+            2020
+          ],
+          "count": "1",
+          "skill_id": 1016
+        },
+        {
+          "buffs_on": [
+            2028
+          ],
+          "count": "3",
+          "skill_id": 1108
+        },
+        {
+          "buffs_on": [
+            2028
+          ],
+          "count": "0",
+          "skill_id": 1011
+        }
+      ]
+    },
+    {
+      "duration": 7.0,
+      "global_buffs": [
+        2017,
+        2016,
+        2015,
+        2014,
+        2011,
+        2111,
+        2127,
+        2128,
+        2119,
+        2102,
+        2103
+      ],
+      "name": "灌注期-无大",
+      "repeat": 1,
+      "skills": [
+        {
+          "buffs_on": [],
+          "count": "0",
+          "skill_id": 1020
+        },
+        {
+          "buffs_on": [],
+          "count": "0",
+          "skill_id": 1021
+        },
+        {
+          "buffs_on": [
+            2021,
+            2019,
+            2018
+          ],
+          "count": "38",
+          "skill_id": 1012
+        },
+        {
+          "buffs_on": [
+            2021,
+            2022
+          ],
+          "count": "14",
+          "skill_id": 1013
+        },
+        {
+          "buffs_on": [],
+          "count": "g",
+          "skill_id": 1014
+        },
+        {
+          "buffs_on": [
+            2028
+          ],
+          "count": "h",
+          "skill_id": 1015
+        },
+        {
+          "buffs_on": [],
+          "count": "q+w",
+          "skill_id": 1017
+        },
+        {
+          "buffs_on": [],
+          "count": "b",
+          "skill_id": 1018
+        },
+        {
+          "buffs_on": [
+            2020
+          ],
+          "count": "1",
+          "skill_id": 1016
+        },
+        {
+          "buffs_on": [
+            2028
+          ],
+          "count": "2",
+          "skill_id": 1108
+        },
+        {
+          "buffs_on": [
+            2028
+          ],
+          "count": "0",
+          "skill_id": 1011
+        }
+      ]
+    },
+    {
+      "duration": 10.0,
+      "global_buffs": [
+        2015,
+        2023,
+        2014,
+        2016,
+        2128,
+        2119,
+        2127,
+        2111,
+        2013
+      ],
+      "name": "陨星",
+      "repeat": 1,
+      "skills": [
+        {
+          "buffs_on": [],
+          "count": "1",
+          "skill_id": 1021
+        },
+        {
+          "buffs_on": [],
+          "count": "1",
+          "skill_id": 1020
+        },
+        {
+          "buffs_on": [
+            2018,
+            2019,
+            2021
+          ],
+          "count": "12",
+          "skill_id": 1012
+        },
+        {
+          "buffs_on": [
+            2021,
+            2024,
+            2022
+          ],
+          "count": "10",
+          "skill_id": 1013
+        },
+        {
+          "buffs_on": [],
+          "count": "g",
+          "skill_id": 1014
+        },
+        {
+          "buffs_on": [],
+          "count": "h",
+          "skill_id": 1015
+        },
+        {
+          "buffs_on": [],
+          "count": "q+w",
+          "skill_id": 1017
+        },
+        {
+          "buffs_on": [],
+          "count": "1",
+          "skill_id": 1016
+        },
+        {
+          "buffs_on": [],
+          "count": "b",
+          "skill_id": 1018
+        },
+        {
+          "buffs_on": [],
+          "count": "2.4",
+          "skill_id": 1108
+        },
+        {
+          "buffs_on": [],
+          "count": "0",
+          "skill_id": 1011
+        }
+      ]
+    },
+    {
+      "duration": 15.0,
+      "global_buffs": [
+        2014,
+        2015,
+        2016,
+        2127,
+        2119,
+        2128,
+        2111
+      ],
+      "name": "真空期",
+      "repeat": 1,
+      "skills": [
+        {
+          "buffs_on": [],
+          "count": "1",
+          "skill_id": 1021
+        },
+        {
+          "buffs_on": [],
+          "count": "1",
+          "skill_id": 1020
+        },
+        {
+          "buffs_on": [],
+          "count": "8",
+          "skill_id": 1012
+        },
+        {
+          "buffs_on": [
+            2021,
+            2025,
+            2022
+          ],
+          "count": "9",
+          "skill_id": 1013
+        },
+        {
+          "buffs_on": [],
+          "count": "q+w",
+          "skill_id": 1017
+        },
+        {
+          "buffs_on": [],
+          "count": "b",
+          "skill_id": 1018
+        },
+        {
+          "buffs_on": [],
+          "count": "g",
+          "skill_id": 1014
+        },
+        {
+          "buffs_on": [],
+          "count": "4",
+          "skill_id": 1108
+        },
+        {
+          "buffs_on": [],
+          "count": "0",
+          "skill_id": 1011
+        }
+      ]
+    }
+  ],
+  "execution_plan": {
+    "测试": 1,
+    "灌注期": 2,
+    "真空期": 4,
+    "灌注期-大招前8秒": 3,
+    "灌注期-大招后7秒": 3,
+    "灌注期-大招前8秒，无博无大": 1,
+    "灌注期-大招后7秒，无博无大": 1,
+    "灌注期-大招前8秒，无大": 1,
+    "灌注期-无大": 1,
+    "陨星": 4
+  },
+  "note": ""
+}
